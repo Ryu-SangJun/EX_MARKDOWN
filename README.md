@@ -1,7 +1,17 @@
 # EX_MARKDOWN
 
+### 10. 표
+|번호|아이디|이름|레벨|이메일|등록일|
+|:------|------|:------:|------:|:------|:------:|
+|1|chris110|류상준|21|aljfdksa|오늘|
+|2|chris110|류상준|21|aljfdksa|오늘|
+|3|chris110|류상준|21|aljfdksa|오늘|
+|4|chris110|류상준|21|aljfdksa|오늘|
+|5|chris110|류상준|21|aljfdksa|오늘|
+
+
 ### 9. 이미지 넣기
-[e클래스 cafe](https://cafe.naver.com/kndjang "e클래스의 cate입니다.")
+[e클래스 cafe](https://github.com/Ryu-SangJun/EX_MARKDOWN/blob/main/%EC%98%88%EC%8B%9C.png "e클래스의 cate입니다.")
 
 
 ### 8. 강조
